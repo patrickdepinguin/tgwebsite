@@ -61,6 +61,7 @@ Or with a Full Stack project:
    (tg2env)$ gearbox quickstart example
    (tg2env)$ cd example/
    (tg2env)$ python setup.py develop
+   (tg2env)$ gearbox setup-app
    (tg2env)$ gearbox serve
 
 Get started Learning TurboGears 2 by looking at `Documentation`_ and our famous `wiki tutorial`_.
